@@ -32,4 +32,11 @@ Minimal base files for starting a static site.
   * Order different modules using [Browserify](http://browserify.org/).
   * Use ES6 thanks to [BabelJS](https://babeljs.io/).
 
+
+## TODOs
+  * Option to minify assets for production.
+  * Script to [ImageOptim](https://imageoptim.com/) the images on `/app/img`.
+  * Script to generate a font from the svg files on `/app/img/icons`.
+
 Ω
+
