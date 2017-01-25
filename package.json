@@ -29,14 +29,14 @@
   },
   "homepage": "https://github.com/mjlescano/static-site-starter#readme",
   "devDependencies": {
-    "babelify": "^6.1.2",
-    "browserify": "^10.2.4",
+    "babelify": "^7.3.0",
+    "browserify": "^14.0.0",
     "css-whitespace": "clintwood/css-whitespace#importer",
-    "fs-extra": "^0.20.0",
+    "fs-extra": "^2.0.0",
     "jade": "^1.11.0",
     "nomnom": "^1.8.1",
     "rework": "^1.0.1",
-    "watch": "^0.16.0",
+    "watch": "^1.0.1",
     "watchify": "^3.2.2"
   }
 }
