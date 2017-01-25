@@ -1,4 +1,6 @@
 # Static Site Starter
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mjlescano/static-site-starter.svg)](https://greenkeeper.io/)
 Minimal base files for starting a static site.
 
 * __HTML__ with [Jade](http://jade-lang.com/)
